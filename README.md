@@ -5,7 +5,8 @@
 📍Status: Single
 📍Section: CE3A
 📍Year Level: 3rd
-📍YearCourse: Bachelor of Science in Computer 📍Engineering (BSCpE)
+📍YearCourse: Bachelor of Science in Computer
+📍Engineering (BSCpE)
 
 
 Introduction
@@ -22,6 +23,9 @@ Weaknesses
 
 Skills
 : small knowledge in coding
+: html + css (basics) 
+: c++
+: python (basics) 
 
 Contact Information
 Fb: Maano, Jay
